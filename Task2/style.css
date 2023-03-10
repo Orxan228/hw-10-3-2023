@@ -1,0 +1,33 @@
+*{
+    background-color: rgb(99, 90, 73);
+}
+p{
+    color: whitesmoke;
+}
+#HeadP{
+    font-size: 50px;
+    color: rgb(80, 151, 151)!important;
+}
+#ylw{
+    color: yellow;
+}
+h2{
+    color: rgb(80, 151, 151);
+}
+hr
+{
+    background-color: burlywood;
+}
+a{
+    color: red;
+}
+#sad{
+    width: 230px;
+    height: 230px;
+}
+li{
+    color: whitesmoke;
+}
+span{
+    color: white;
+}
